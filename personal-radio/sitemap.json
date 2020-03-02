@@ -1,0 +1,21 @@
+{
+  "rules": [
+    // {
+    //   "action": "allow",
+    //   "page": "path/to/page",
+    //   "params": [
+    //     "a",
+    //     "b"
+    //   ],
+    //   "matching": "inclusive"
+    // },
+    // {
+    //   "action": "disallow",
+    //   "page": "*"
+    // },
+    {
+      "action": "allow",
+      "page": "*"
+    }
+  ]
+}

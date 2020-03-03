@@ -21,18 +21,6 @@
     "navigationBarTitleText": "云开发 QuickStart",
     "navigationBarTextStyle": "black"
   },
-  // "tabBar": {
-  //   "list": [
-  //     {
-  //       "pagePath": "pages/index/index",
-  //       "text": "首页"
-  //     },
-  //     {
-  //       "pagePath": "pages/logs/index",
-  //       "text": "日志"
-  //     }
-  //   ]
-  // },
   "networkTimeout": {
     "request": 10000,
     "downloadFile": 10000

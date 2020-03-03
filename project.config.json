@@ -1,5 +1,5 @@
 {
-	"miniprogramRoot": "miniprogram/",
+	"miniprogramRoot": "personal-radio/",
 	"cloudfunctionRoot": "cloudfunctions/",
 	"setting": {
 		"urlCheck": true,
@@ -12,6 +12,8 @@
 	"appid": "wxa31ab7bc058f7d1e",
 	"projectname": "personal-radio",
 	"libVersion": "2.8.1",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
@@ -28,7 +30,7 @@
 		"game": {
 			"list": []
 		},
-		"miniprogram": {
+		"personal-radio": {
 			"current": 0,
 			"list": [
 				{
